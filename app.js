@@ -15,7 +15,7 @@ const app = express();
 // Middlewares
 const corsOptions = {
   origin: [
-    'https://front-zeta-seven-48.vercel.app', // producción
+    'https://rutero-lizeth.vercel.app', // producción
     'http://localhost:5173',                  // desarrollo local
   ],
   credentials: true,
